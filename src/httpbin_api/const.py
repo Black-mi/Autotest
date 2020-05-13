@@ -1,0 +1,5 @@
+LOCAL_IP = "171.212.33.83"
+BASE_URL = "http://httpbin.org/"
+IP_URL = "/ip"
+# GET_URL = "/headers"
+POST_URL = "/post"
